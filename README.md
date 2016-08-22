@@ -1,4 +1,19 @@
-# redis 缓存数据库
-1、mysql数据同步到redis<br>
-2、redis里面主键的设计<br>
-3、redis和数据库之间的数据同步
+redis 缓存数据库
+================
+
+>完成功能
+---------
+>>mysql数据同步到redis<br>
+>>redis数据结构设计;模拟完成查询、插入、更新、删除<br>
+>>存储redis数据更新日志、异步更新数据库<br>
+        
+>框架
+-----
+>>Dubbo
+>>Zookeeper
+>>Spring
+>>Hibernate
+
+>辅助插件
+---------
+>>lombok
