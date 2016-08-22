@@ -9,11 +9,11 @@ redis 缓存数据库
         
 >框架
 -----
->>Dubbo
->>Zookeeper
->>Spring
->>Hibernate
+>>Dubbo<br>
+>>Zookeeper<br>
+>>Spring<br>
+>>Hibernate<br>
 
 >辅助插件
 ---------
->>lombok
+>>lombok<br>
